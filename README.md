@@ -1,0 +1,2 @@
+# majesticcasahouse
+Static site: majesticcasahouse
